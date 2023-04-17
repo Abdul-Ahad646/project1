@@ -1,0 +1,50 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background: rgb(18, 232, 179) !important;
+}
+.copy-right {
+    background: green;
+}
+.footer-top{
+    background-color: blueviolet;
+}
+.row.footer-top ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.row.footer-top ul li a {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.row.footer-top {
+    padding: 29px;
+    color: #fff;
+}
+.copy-right p{
+color:#fff
+}
+footer.footer-area {
+    margin-top: 150px;
+}
+footer.footer-area .title {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+}
+section.card-area {
+    margin-top: 80px; 
+}
+.progress-bar {
+    margin: 2px;
+}
+nav .container-fluid a img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 1000%;
+}
+.carousel-inner  img{
+    height: 400px;
+}
